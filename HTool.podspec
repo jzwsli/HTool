@@ -6,14 +6,14 @@ s.version      = "0.0.1"
 s.summary      = "工具类"
 
 s.description  = <<-DESC
-自己写的一些工具类
+for me
 DESC
 
 s.homepage     = "https://github.com/jzwsli/HTool"
 
 s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
-s.author             = { "lzr" => "532028798@qq.com.com" }
+s.author             = { "lzr" => "532028798@qq.com" }
 
 s.platform     = :ios
 
